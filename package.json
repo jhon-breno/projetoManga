@@ -1,0 +1,12 @@
+{
+  "name": "projetomanga",
+  "version": "1.0.0",
+  "description": "Projeto visa desenvolver um sistema de controle de consumidores de água da localidade de Manga - Madalena/Ceará\r Pontos para serem desenvolvidos:\r  * Interface para controle (Tela inicial com dash, Página de Clientes, Página do cliente com dados de leituras, consumo, faturas, Página de Medidores(Hidrometro) com data de instalação, modelo, etc.;\r  * Interface de administradores;\r  * Cadastro de Clientes;\r  * Cadastro de leturas;\r  * Lógica de cálculo de consumo;\r  * Criação de faturas;\r  * Métodos de Pagamento;\r  * Métodos de automação de cobrança.;\r  * Registro de atendimento ao cliente;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
